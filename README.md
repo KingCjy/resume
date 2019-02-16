@@ -21,7 +21,7 @@
         - Android, IOS 앱에 필요한 REST API 개발
         - Android, IOS 푸시 개발
         
-<img src="https://lh3.googleusercontent.com/uQqmSiaT64xLZCuDY4SIdxquYTP7rRrqoEige9MwLRkOPUTVIXugNvrpGxP56F2dd4wz=w720-h310-rw" srcset="https://lh3.googleusercontent.com/uQqmSiaT64xLZCuDY4SIdxquYTP7rRrqoEige9MwLRkOPUTVIXugNvrpGxP56F2dd4wz=w1440-h620-rw 2x" class="T75of lxGQyd" aria-hidden="true" width="164" height="310" alt="스크린샷 이미지" itemprop="image">
+<img src="https://lh3.googleusercontent.com/uQqmSiaT64xLZCuDY4SIdxquYTP7rRrqoEige9MwLRkOPUTVIXugNvrpGxP56F2dd4wz=w720-h310-rw" srcset="https://lh3.googleusercontent.com/uQqmSiaT64xLZCuDY4SIdxquYTP7rRrqoEige9MwLRkOPUTVIXugNvrpGxP56F2dd4wz=w1440-h620-rw 2x" class="T75of lxGQyd" aria-hidden="true" height="310" alt="스크린샷 이미지" itemprop="image">
     
 
 * **픽앤유니크 - pick&uniq**
