@@ -46,7 +46,7 @@
         - Cafe24 및 MakeShop 과의 상품 연동 유지보수
         - Samsungpay연동 api 개발 및 유지보수
         
-<img src="https://raw.githubusercontent.com/KingCjy/resume/master/images/people.png?token=ALRQL3d1vFaWq68_kVRSkbzrYbc3E3dyks5ccXMHwA%3D%3D" class="T75of lxGQyd" aria-hidden="true" height="310" alt="스크린샷 이미지" itemprop="image">
+<img src="https://raw.githubusercontent.com/KingCjy/resume/master/images/picknuniq.png?token=ALRQL50N6mMuLlECSdGalE5TYAPC8DU4ks5ccXWMwA%3D%3D" class="T75of lxGQyd" aria-hidden="true" height="310" alt="스크린샷 이미지" itemprop="image">
 
 
 * **Admerce**
@@ -79,4 +79,4 @@
         - 기존 PHP로 작성된 코드를 Java로 마이그레이션
         - 대리운전 배차, 요금계산 API 유지보수
 
-        
+<img src="https://raw.githubusercontent.com/KingCjy/resume/master/images/parkingon.png?token=ALRQL05cUL7D9_J5WyA0LKjesYbeXL7Uks5ccXXBwA%3D%3D" class="T75of lxGQyd" aria-hidden="true" height="310" alt="스크린샷 이미지" itemprop="image">
