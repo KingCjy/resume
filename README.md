@@ -38,7 +38,7 @@
         - Hazelcast
         - Redis
         - AWS
-    * 업무[2;2R[>0;95;0c]11;rgb:00/00/00 내용
+    * 업무 내용
         - Android 및 IOS 앱의 런칭에 필요한 REST API 개발
         - 쇼핑몰 정산 시스템 신규 개발
         - 쇼핑몰 결제 수단 추가(Payco)
@@ -46,6 +46,9 @@
         - Cafe24 및 MakeShop 과의 상품 연동 유지보수
         - Samsungpay연동 api 개발 및 유지보수
         
+<img src="https://raw.githubusercontent.com/KingCjy/resume/master/images/people.png?token=ALRQL3d1vFaWq68_kVRSkbzrYbc3E3dyks5ccXMHwA%3D%3D" class="T75of lxGQyd" aria-hidden="true" height="310" alt="스크린샷 이미지" itemprop="image">
+
+
 * **Admerce**
 
     게임기반 마켓팅 솔루션
