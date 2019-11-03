@@ -1,7 +1,7 @@
 포트폴리오
 ===================
 
-###web-server-framework - 자바 웹 서버 프레임워크
+web-server-framework - 자바 웹 서버 프레임워크
 ---
     
 스프링 프레임워크 따라만들기 3번째 버전입니다.
@@ -25,7 +25,7 @@
         - AOP
 ---
 
-###Airpick - 여행특가 서비스
+Airpick - 여행특가 서비스
 ---
 항공, 호텔 액티비티 알림 서비스
 
@@ -46,8 +46,8 @@
         
 <img src="https://raw.githubusercontent.com/KingCjy/resume/master/images/airpick.png?token=ALRQL3d1vFaWq68_kVRSkbzrYbc3E3dyks5ccXMHwA%3D%3D" class="T75of lxGQyd" aria-hidden="true" height="310" alt="스크린샷 이미지" itemprop="image">
     
-###People - 피플 인사,부고 알리미
-    
+People - 피플 인사,부고 알리미
+---
     주변인물 인사, 부고 알림 서비스
     
     * 소속 : 개인
@@ -68,8 +68,8 @@
 <img src="https://raw.githubusercontent.com/KingCjy/resume/master/images/people.png?token=ALRQL3d1vFaWq68_kVRSkbzrYbc3E3dyks5ccXMHwA%3D%3D" class="T75of lxGQyd" aria-hidden="true" height="310" alt="스크린샷 이미지" itemprop="image">
     
 
-###픽앤유니크 - pick&uniq
-
+픽앤유니크 - pick&uniq
+---
     커머스 쇼핑몰
     
     * 소속 : 지니웍스
@@ -93,8 +93,8 @@
 <img src="https://raw.githubusercontent.com/KingCjy/resume/master/images/picknuniq.png?token=ALRQL50N6mMuLlECSdGalE5TYAPC8DU4ks5ccXWMwA%3D%3D" class="T75of lxGQyd" aria-hidden="true" height="310" alt="스크린샷 이미지" itemprop="image">
 
 
-###Admerce
-
+Admerce
+---
     게임기반 마켓팅 솔루션
     
     * 소속 : 지니웍스
@@ -108,8 +108,8 @@
     * 업무 내용
         - 게임서비스 관리페이지 Frontend 및 Backend 개발
 
-###파킹온 - ParkingOn
-
+파킹온 - ParkingOn
+---
     통합형 자동차 서비스 앱
     
     * 소속 : 지니웍스
