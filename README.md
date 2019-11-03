@@ -24,7 +24,7 @@ web-server-framework - 자바 웹 서버 프레임워크
         - Query Annotation
         - AOP
 실제 사용 샘플 코드       
-```
+```Java
 @RestController
 @RequestMapping("/api")
 public class BoardController {
