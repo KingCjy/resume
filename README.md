@@ -23,6 +23,47 @@ web-server-framework - 자바 웹 서버 프레임워크
         - Transactional Annotation
         - Query Annotation
         - AOP
+실제 사용 샘플 코드       
+```
+@RestController
+@RequestMapping("/api")
+public class BoardController {
+
+    @Autowired
+    private BoardService boardService;
+
+    @RequestMapping("/boards")
+    public ResponseEntity<List<BoardDto.BoardResponseDto>> findAllBoards() {
+        List<BoardDto.BoardResponseDto> dtoList = boardService.findAllBoards();
+        return new ResponseEntity<>(dtoList, HttpStatus.OK);
+    }
+
+    @RequestMapping(value = "/boards/{id}", method = RequestMethod.GET)
+    public ResponseEntity<?> findBoardById(@PathVariable(name = "id") Long id) {
+        BoardDto.BoardResponseDto dto = boardService.findBoardById(id);
+        return new ResponseEntity<>(dto, HttpStatus.OK);
+    }
+
+    @RequestMapping(value = "/boards", method = RequestMethod.POST)
+    public ResponseEntity<?> addBoard(@RequestBody BoardDto.BoardRequestDto dto) {
+        boardService.addBoard(dto);
+        return new ResponseEntity<>(HttpStatus.OK);
+    }
+
+    @RequestMapping(value = "/boards/{id}", method = RequestMethod.PATCH)
+    public ResponseEntity<?> updateBoardById(@PathVariable(name = "id", required = true) Long id,
+                                            @RequestBody BoardDto.BoardRequestDto dto) {
+        boardService.updateBoard(id, dto);
+        return new ResponseEntity<>(HttpStatus.OK);
+    }
+
+    @RequestMapping(value = "/boards/{id}", method = RequestMethod.DELETE)
+    public ResponseEntity<?> deleteBoardById(@PathVariable(name = "id") Long id) {
+        boardService.deleteBoard(id);
+        return new ResponseEntity<>(HttpStatus.OK);
+    }
+}
+```
 ---
 
 Airpick - 여행특가 서비스
@@ -86,10 +127,10 @@ People - 피플 인사,부고 알리미
         - Redis
         - AWS
     * 업무 내용
-        - Android 및 IOS 앱의 런칭에 필요한 REST API 개발
         - 쇼핑몰 정산 시스템 신규 개발
-        - 쇼핑몰 결제 수단 추가(Payco)
+        - Android 및 IOS 앱의 런칭에 필요한 REST API 개발
         - 간편 로그인 개발(Kakao, Facebook, Naver, Payco)
+        - 쇼핑몰 결제 수단 추가(Payco)
         - Cafe24 및 MakeShop 과의 상품 연동 유지보수
         - Samsungpay연동 API 개발 및 유지보수
         
@@ -110,7 +151,7 @@ Admerce - 애드머스
         - Redux
         - Redux-Saga
     * 업무 내용
-        - 게임서비스 관리페이지 Frontend 및 Backend 개발
+        - 게임서비스 관리페이지 Frontend(React) 및 Backend(Spring boot) 개발
 
  ---
  
