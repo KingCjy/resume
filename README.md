@@ -115,7 +115,7 @@ Admerce - 애드머스
  ---
  
  
-ParkingOn - 파킹
+ParkingOn - 파킹온
 ---
 통합형 자동차 서비스 앱
 
