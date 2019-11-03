@@ -44,7 +44,7 @@ Airpick - 여행특가 서비스
         - 테스트 & 배포 자동화(AWS CodePipeline + GitLab)
 
         
-<img src="https://raw.githubusercontent.com/KingCjy/resume/master/images/airpick.png?token=ALRQL3d1vFaWq68_kVRSkbzrYbc3E3dyks5ccXMHwA%3D%3D" class="T75of lxGQyd" aria-hidden="true" height="310" alt="스크린샷 이미지" itemprop="image">
+<img src="https://github.com/KingCjy/resume/blob/master/images/airpick.PNG?raw=true" class="T75of lxGQyd" aria-hidden="true" height="310" alt="스크린샷 이미지" itemprop="image">
     
 People - 피플 인사,부고 알리미
 ---
