@@ -1,14 +1,25 @@
 포트폴리오
 ===================
 
+EzFramework - Bukkit 플러그인 프레임워크
+---
+[![Download](https://api.bintray.com/packages/kingcjy/ezframework/ezframework-core/images/download.svg) ](https://bintray.com/kingcjy/ezframework/ezframework-core/_latestVersion)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.kingcjy/ezframework-core.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22io.github.kingcjy%22%20AND%20a:%22ezframework-core%22)
+[![Build Status](https://travis-ci.org/KingCjy/ezframework.svg?branch=master)](https://travis-ci.org/KingCjy/ezframework)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+마인프래프트 Bukkit 위에서 돌아가는 플러그인을 개발하기위한 오픈소스 프레임워크입니다.
+마인크래프트내에 커맨드, 이벤트를 쉽게 등록할 수 있습니다.
+
+소스코드 및 사용법은 [>> 이곳 <<](https://github.com/KingCjy/ezframework) 에서 확인해주세요
+
 web-server-framework - 자바 웹 서버 프레임워크
 ---
     
-스프링 프레임워크 따라만들기 3번째 버전입니다.
+스프링 클론코딩 3번째 버전입니다.
+객체지향 프로그래밍, 디자인패턴, 스프링 프레임워크 내부 구조 공부를 위해 진행중인 프로젝트입니다.
 
-자바 실력 향상과 스프링 프레임워크 내부 구조 이해를 위해 진행중인 프로젝트입니다.
-
-소스코드는 [이곳](https://github.com/KingCjy/web-server-framework/tree/v3) 에서 확인해주세요
+소스코드는 [>> 이곳 <<](https://github.com/KingCjy/web-server-framework/tree/v3) 에서 확인해주세요
 
     * 소속 : 개인
     * 역할 : 프로젝트 개발
@@ -108,7 +119,7 @@ People - 피플 인사,부고 알리미
         - Android, IOS 푸시 개발(Firebase Admin SDK)
         - REST API 문서 자동화(Spring REST Docs)
         
-<img src="https://raw.githubusercontent.com/KingCjy/resume/master/images/people.png?token=ALRQL3d1vFaWq68_kVRSkbzrYbc3E3dyks5ccXMHwA%3D%3D" class="T75of lxGQyd" aria-hidden="true" height="310" alt="스크린샷 이미지" itemprop="image">
+<img src="https://github.com/KingCjy/resume/blob/master/images/people.png?raw=true" class="T75of lxGQyd" aria-hidden="true" height="310" alt="스크린샷 이미지" itemprop="image">
 
  ---
  
@@ -134,7 +145,7 @@ People - 피플 인사,부고 알리미
         - Cafe24 및 MakeShop 과의 상품 연동 유지보수
         - Samsungpay연동 API 개발 및 유지보수
         
-<img src="https://raw.githubusercontent.com/KingCjy/resume/master/images/picknuniq.png?token=ALRQL50N6mMuLlECSdGalE5TYAPC8DU4ks5ccXWMwA%3D%3D" class="T75of lxGQyd" aria-hidden="true" height="310" alt="스크린샷 이미지" itemprop="image">
+<img src="https://github.com/KingCjy/resume/blob/master/images/picknuniq.png?raw=true" class="T75of lxGQyd" aria-hidden="true" height="310" alt="스크린샷 이미지" itemprop="image">
 
  ---
  
@@ -174,4 +185,4 @@ ParkingOn - 파킹온
         - 기존 PHP로 작성된 코드를 Java로 마이그레이션
         - 대리운전 배차, 요금계산 API 유지보수
 
-<img src="https://raw.githubusercontent.com/KingCjy/resume/master/images/parkingon.png?token=ALRQL05cUL7D9_J5WyA0LKjesYbeXL7Uks5ccXXBwA%3D%3D" class="T75of lxGQyd" aria-hidden="true" height="310" alt="스크린샷 이미지" itemprop="image">
+<img src="https://github.com/KingCjy/resume/blob/master/images/parkingon.png?raw=true" class="T75of lxGQyd" aria-hidden="true" height="310" alt="스크린샷 이미지" itemprop="image">
